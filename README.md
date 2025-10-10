@@ -1,5 +1,5 @@
 # Course Work For Database & Website Security
-CSIS-3385 FALL 2025
+Database & Website Security | CSIS-3385 FALL 2025
 
 Intructor: Jon-Mikel Pearson
 
