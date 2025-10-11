@@ -63,8 +63,6 @@ def create_user():
 
 # PUT: Update user by ID
 # Added <int:user_id> to ensure user_id is treated as an integer
-
-
 @app.route('/users/<int:user_id>', methods=['PUT'])
 def update_user(user_id):
     data = request.get_json()
@@ -79,8 +77,6 @@ def update_user(user_id):
 
 # DELETE: Remove user by ID
 # Added <int:user_id> to ensure user_id is treated as an integer
-
-
 @app.route('/users/<int:user_id>', methods=['DELETE'])
 def delete_user(user_id):
     global users
