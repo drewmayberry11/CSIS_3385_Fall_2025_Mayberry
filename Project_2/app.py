@@ -5,7 +5,7 @@ Author: Drew Mayberry
 College: Austin Community College
 Professor: Jon-Mikel Pearson
 Date: 2025-10-10
-Course: CSIS-3385 — Database & Web Vulnerabilities (Module 3, Project 2)
+Course: CSIS-3385 — Database & Web Vulnerabilities (Competency 3, Project 2)
 Purpose: Minimal Flask CRUD over an in-memory user list seeded from seed.json.
 Run: python3 app.py  (binds 0.0.0.0:5000)
 
